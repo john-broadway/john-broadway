@@ -17,3 +17,5 @@ I believe AI should be a partner, not just a tool. Everything I build reflects t
 - **AI partnership** — not chatbots, not assistants. Partners.
 - **Governance-as-code** — autonomy without accountability isn't autonomy, it's negligence.
 - **Systems that earn trust** — through audit trails, kill switches, and graceful degradation. Not through promises.
+
+<img width="362" height="380" alt="image" src="https://github.com/user-attachments/assets/d4c40d75-d6a2-4a21-a101-a88582cfb155" />
