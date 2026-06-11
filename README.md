@@ -8,6 +8,8 @@ I believe AI should be a partner, not just a tool. Everything I build reflects t
 
 ### What I'm Working On
 
+**[Proximo — the ethical Proxmox MCP](https://github.com/john-broadway/proximo)** — the complete Proxmox control plane for AI agents, built so you can hand one the keys to a cluster you actually care about. Every dangerous operation is planned (dry-run preview first), undoable (auto-snapshot before it acts), and proven (tamper-evident audit ledger) — trust *by construction*, not bolted on after. 117 tools across MCP and A2A, one trust core. v0.1.1 "Spaniard" on PyPI (`uvx proximo-proxmox`) and GitHub. Apache 2.0.
+
 **[RYS — train-free reasoning, taken small](https://huggingface.co/john-broadway)** — RYS (Repeat Your Self) layer duplication, taken below where the community said it would work. Reasoning circuits surfaced at every scale from 135M to 32B — and across 10 architecture families, not just one. 22 model repos + a sweep dataset on Hugging Face, gathered in two Sovereign Collections. 300+ configurations tested, $0 training cost.
 
 **[Maude for Claude](https://github.com/john-broadway/maude-for-claude)** — Claude's partner inside Claude Code. He writes the code; she notices. A plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, and bash — no daemon. v0.1.7 shipped 2026-05-24. Apache 2.0.
@@ -25,6 +27,7 @@ More on the desk. It surfaces when it's ready.
 
 - [john-broadway.github.io](https://john-broadway.github.io)
 - [LinkedIn](https://www.linkedin.com/in/john-broadway) · [X](https://x.com/jebroadway)
+- [Proximo](https://github.com/john-broadway/proximo) — the ethical Proxmox MCP (`uvx proximo-proxmox`)
 - [HuggingFace](https://huggingface.co/john-broadway) — RYS models across 10 architecture families
 - [Maude for Claude](https://github.com/john-broadway/maude-for-claude) — Claude Code plugin
 
