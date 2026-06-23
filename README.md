@@ -8,7 +8,7 @@ I believe AI should be a partner, not just a tool. Everything I build reflects t
 
 ### What I'm Working On
 
-**[Proximo — the ethical Proxmox MCP](https://github.com/john-broadway/proximo)** — the complete Proxmox control plane for AI agents, built so you can hand one the keys to a cluster you actually care about. Every dangerous operation is planned (dry-run preview first), undoable (auto-snapshot before it acts), and proven (keyed, tamper-evident audit ledger with off-box head-pinning) — trust *by construction*, not bolted on after. 145 tools across MCP and A2A, one trust core. v0.7.1 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR (signed multi-arch image). Apache 2.0.
+**[Proximo — the Proxmox MCP you can hand the keys](https://github.com/john-broadway/proximo)** — most Proxmox MCPs make you choose between a safe read-only inspector and a loaded gun aimed at a cluster you care about; Proximo refuses the trade. Every dangerous operation is planned (blast-radius preview first), undoable (auto-snapshot before it acts), and proven (keyed, tamper-evident audit ledger with off-box head-pinning) — trust *by construction*, not bolted on after. **Hand an AI agent the keys to a cluster you actually care about; keep the receipts.** 145 tools across MCP and A2A, one trust core. v0.7.1 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR (signed multi-arch image). Apache 2.0.
 
 **[RYS — train-free reasoning, taken small](https://huggingface.co/john-broadway)** — RYS (Repeat Your Self) layer duplication, swept from 135M to 32B across 10 architecture families — far below where the community said it would work. The honest finding: the lift is real at large scale, while the dramatic small-model "gains" turned out to be largely thin-probe artifacts that don't reproduce on a real benchmark — a bound on where the evidence is trustworthy, not a refutation of the method. 22 model repos + a sweep dataset on Hugging Face. 300+ configurations tested, $0 training cost.
 
@@ -27,7 +27,7 @@ More on the desk. It surfaces when it's ready.
 
 - [john-broadway.github.io](https://john-broadway.github.io)
 - [LinkedIn](https://www.linkedin.com/in/john-broadway) · [X](https://x.com/jebroadway)
-- [Proximo](https://github.com/john-broadway/proximo) — the ethical Proxmox MCP (`uvx proximo-proxmox`)
+- [Proximo](https://github.com/john-broadway/proximo) — the Proxmox MCP you can hand the keys (`uvx proximo-proxmox`)
 - [HuggingFace](https://huggingface.co/john-broadway) — RYS models across 10 architecture families
 - [Maude for Claude](https://github.com/john-broadway/maude-for-claude) — Claude Code plugin
 
