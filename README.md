@@ -15,7 +15,7 @@ Most Proxmox MCPs make you choose between a safe read-only inspector and a loade
 
 **[RYS — train-free reasoning, taken small](https://huggingface.co/john-broadway)** — RYS (Repeat Your Self) layer duplication, swept from 135M to 32B across 10 architecture families — far below where the community said it would work. The honest finding: the lift is real at large scale, while the dramatic small-model "gains" turned out to be largely thin-probe artifacts that don't reproduce on a real benchmark — a bound on where the evidence is trustworthy, not a refutation of the method. 22 model repos + a sweep dataset on Hugging Face. 300+ configurations tested, $0 training cost.
 
-**[Maude for Claude](https://github.com/john-broadway/maude-for-claude)** — Claude's partner inside Claude Code. He writes the code; she notices. A plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, and bash — no daemon. v0.13.2 shipped 2026-06-30 (the gate now closes six documented bypasses). Apache 2.0.
+**[Maude for Claude](https://github.com/john-broadway/maude-for-claude)** — Claude's partner inside Claude Code. He writes the code; she notices. A plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, and bash — no daemon. v0.16.0 shipped 2026-07-13 (the vault floor pages the right note instead of dumping the index, the eye watches with her own small model, and a true session end leaves a pointer for the next one). Apache 2.0.
 
 More on the desk. It surfaces when it's ready.
 
