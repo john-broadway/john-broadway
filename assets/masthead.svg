@@ -46,15 +46,15 @@
 
   <!-- ── the name block ── -->
   <g transform="translate(300,0)">
-    <text x="0" y="118" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15"
-          letter-spacing="5.5" fill="#8B94A3">INDEPENDENT RESEARCHER  ·  INFRASTRUCTURE ARCHITECT</text>
+    <text x="0" y="118" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14"
+          letter-spacing="4.2" fill="#8B94A3">INDEPENDENT RESEARCHER  ·  SELF-TAUGHT SYSTEMS BUILDER</text>
 
     <text x="-3" y="192" font-family="Georgia, 'Times New Roman', serif" font-size="66"
           letter-spacing="2" fill="#EFEADD">JOHN <tspan fill="#C9A24B">BROADWAY</tspan></text>
 
     <line x1="0" y1="220" x2="150" y2="220" stroke="#C9A24B" stroke-width="1.5"/>
 
-    <text x="0" y="262" font-family="Georgia, 'Times New Roman', serif" font-size="23"
-          font-style="italic" fill="#C9CFD9">Sovereign AI systems you can hand the keys to.</text>
+    <text x="0" y="262" font-family="Georgia, 'Times New Roman', serif" font-size="22"
+          font-style="italic" fill="#C9CFD9">Sovereignty is a belief before it&#39;s an architecture.</text>
   </g>
 </svg>
