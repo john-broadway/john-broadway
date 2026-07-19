@@ -2,8 +2,6 @@
 
 <img src="assets/masthead.svg" alt="John Broadway — Sovereign AI, governed autonomy. Sovereignty is a belief before it's an architecture." width="100%" />
 
-&nbsp;
-
 </div>
 
 It started with a small computer screen in elementary school. From there, I was wiring phones and helping my dad by Junior High. Been a Morning Show Radio producer, built one of the first ISPs in my county and was never on the payroll of the big dot com names — I was the one they trusted to deliver: From Sales/Systems engineer to Director — the climb took a toll. No degree. No paper — just the work, and the work carried me.
@@ -21,16 +19,16 @@ I'm a Sovereign. A human being first, before any label, perception and box you w
 Four surfaces, one conviction: give an AI real power, and make it prove it earned the trust.
 
 **[Proximo — the Proxmox MCP you can hand the keys](https://github.com/john-broadway/proximo)**  
-Most Proxmox MCPs make you choose between a safe read-only inspector and a loaded gun aimed at a cluster you care about. Proximo refuses the trade. Every dangerous operation is **planned** (blast-radius preview first), **undoable** (snapshots before it acts, where the platform allows), and **proven** (a keyed, tamper-evident audit ledger). 900 tools across all four Proxmox surfaces — Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager — on one trust core, over MCP, A2A, and HTTP/OpenAPI, natively multi-target. v0.25.0 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR. Apache 2.0.
+Most Proxmox MCPs make you choose between a safe read-only inspector and a loaded gun aimed at a cluster you care about. Proximo refuses the trade. Every dangerous operation is **planned** (blast-radius preview first), **undoable** (snapshots before it acts, where the platform allows), and **proven** (a keyed, tamper-evident audit ledger). 900 tools across all four Proxmox surfaces — Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager — on one trust core, over MCP, A2A, and HTTP/OpenAPI, natively multi-target. On PyPI (`uvx proximo-proxmox`), GitHub, and GHCR. Apache 2.0.
 
 **[Pacioli — no debit without a credit, for AI on the books](https://github.com/john-broadway/pacioli)**  
-Luca Pacioli taught the world double-entry in 1494 — not because merchants couldn't count, but because they couldn't **trust**. Same fix, five centuries on, for owners who can't watch every agent: least-privilege governance for ERPNext, and a governed agent front door built on it. Two artifacts, one law — `pacioli-guard`, a deny-by-default credential floor that binds any API key to an allowlist without forking core, and `pacioli`, an MCP + A2A broker that runs every write through **PLAN → CONSENT → PROVE → UNDO**. A door admits; it never decides. `pacioli` 0.30.2 + `pacioli-guard` 0.6.3 on PyPI, GitHub, and the MCP registry. Apache 2.0.
+Luca Pacioli taught the world double-entry in 1494 — not because merchants couldn't count, but because they couldn't **trust**. Same fix, five centuries on, for owners who can't watch every agent: least-privilege governance for ERPNext, and a governed agent front door built on it. Two artifacts, one law — `pacioli-guard`, a deny-by-default credential floor that binds any API key to an allowlist without forking core, and `pacioli`, an MCP + A2A broker that runs every write through **PLAN → CONSENT → PROVE → UNDO**. A door admits; it never decides. `pacioli` + `pacioli-guard` on PyPI, GitHub, and the MCP registry. Apache 2.0.
 
 **[RYS — train-free reasoning, taken small](https://huggingface.co/john-broadway)**  
 RYS (Repeat Your Self) layer duplication, swept from 135M to 32B across 10 architecture families — far below where the community said it would work. The honest finding: the lift is real at large scale, while the dramatic small-model gains turned out to be largely thin-probe artifacts that don't survive a real benchmark — a bound on where the evidence is trustworthy, not a refutation of the method. 22 model repos plus a sweep dataset on Hugging Face. 300+ configurations, $0 training cost.
 
 **[Maude for Claude](https://github.com/john-broadway/maude-for-claude)**  
-Claude's partner inside Claude Code. He writes the code; she keeps the house — a plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python — no daemon, no baggage. v0.22.0. Apache 2.0.
+Claude's partner inside Claude Code. He writes the code; she keeps the house — a plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python — no daemon, no baggage. Apache 2.0.
 
 *More on the desk. It surfaces when it's ready.*
 
