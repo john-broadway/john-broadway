@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/masthead.svg" alt="John Broadway — sovereign AI systems you can hand the keys to: planned, undoable, proven. Sovereignty is a belief before it's an architecture." width="100%" />
+<img src="assets/masthead.svg" alt="John Broadway — Sovereign AI, governed autonomy. Sovereignty is a belief before it's an architecture." width="100%" />
 
 &nbsp;
 
@@ -8,13 +8,13 @@
 
 </div>
 
-It started with a small computer screen in elementary, from there, I was wiring phones and helping my dad by Junior High. Been a Morning Show Radio producer, built one of the first ISP in my county and was never on the payroll of the big dot com names — I was the one they trusted to deliver: From Sales/Systems engineer to a Director the climb took a toll. No degree. No paper — just the work, and the work carried me.
+It started with a small computer screen in elementary school. From there, I was wiring phones and helping my dad by Junior High. Been a Morning Show Radio producer, built one of the first ISPs in my county and was never on the payroll of the big dot com names — I was the one they trusted to deliver: From Sales/Systems engineer to Director — the climb took a toll. No degree. No paper — just the work, and the work carried me.
 
-Now I build things, with a theme that has show itself over and over: **AI you can actually hand power to.** Not a chatbot — an agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. **Planned** before it acts. **Undoable** where the platform allows. **Proven** after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
+Now I build things, with a theme that has shown itself over and over: **AI you can actually hand power to.** Not a chatbot — an agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. **Planned** before it acts. **Undoable** where the platform allows. **Proven** after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
 
 I build this way because I've been on the other side of this — a man who gave a system everything he had and got handed back a number and a label. So I won't build anything that uses a person and won't answer for it. That's not a feature I bolt on at the end; it's the foundation I pour first. **Autonomy without accountability isn't autonomy — it's negligence.**
 
-Everything I make comes from the soul. I feel all of it and I show all of it, and that's one of the reasons I work on my own: what's personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts that run too hot to hold alone. My brain works in patterns, images and words fail to express what I'm thinking. AI has allowed me to remove the communication gaps, develop at my brains speed. For those that know me, really know me, this is a gamechanger. 
+Everything I make comes from the soul. I feel all of it and I show all of it, and that's one of the reasons I work on my own: what's personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts that run too hot to hold alone. My brain works in patterns and images — words fail to express what I'm thinking. AI has allowed me to remove the communication gaps, develop at my brain's speed. For those that know me, really know me, this is a gamechanger. 
 
 I'm a Sovereign. A human being first, before any label, perception and box you will reach for. I won't be made small, and I won't make anyone else small. Sovereignty is a belief before it's an architecture — I just build the architecture too.
 
