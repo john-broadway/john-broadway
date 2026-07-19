@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/masthead.svg" alt="John Broadway — sovereign AI systems you can hand the keys to: planned, undoable, proven" width="100%" />
+<img src="assets/masthead.svg" alt="John Broadway — independent researcher and self-taught systems builder. Sovereignty is a belief before it's an architecture." width="100%" />
 
 &nbsp;
 
@@ -8,7 +8,13 @@
 
 </div>
 
-I build sovereign AI systems that run on bare metal — the kind that detect their own problems, recall past fixes, and self-heal at 3 AM while everyone sleeps. AI should be a partner, not a tool. Everything here reflects that.
+I've been taking things apart and making them work since I was a kid with a soldering iron. Radio producer. I built the first ISP in my county. I made director at Cisco and at Walmart with no degree — no paper, just the work, and the work carried me.
+
+Everything I build comes from the soul. I feel all of it and I show all of it, and that's why I work on my own: what I make is personal, and personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts of it that run too hot to hold alone.
+
+I'm a Sovereign. A human being first, before any label anyone reaches for. I won't be made small, and I won't build anything that makes someone else small. That's the belief under all of it: autonomy without accountability isn't autonomy, it's negligence — so I build the accountability in, at the foundation, where it can't be pulled back out.
+
+What comes out is AI that governs itself and proves every move — planned, undoable, provable. Not systems you have to watch. Systems that answer for themselves.
 
 ### Selected Works
 
