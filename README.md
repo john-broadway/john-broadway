@@ -4,8 +4,6 @@
 
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141A26?style=flat-square&logo=linkedin&logoColor=C9A24B)](https://www.linkedin.com/in/john-broadway) [![X](https://img.shields.io/badge/X-141A26?style=flat-square&logo=x&logoColor=C9A24B)](https://x.com/jebroadway) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-141A26?style=flat-square&logo=huggingface&logoColor=C9A24B)](https://huggingface.co/john-broadway) [![Website](https://img.shields.io/badge/john--broadway.github.io-141A26?style=flat-square&logo=githubpages&logoColor=C9A24B)](https://john-broadway.github.io)
-
 </div>
 
 It started with a small computer screen in elementary school. From there, I was wiring phones and helping my dad by Junior High. Been a Morning Show Radio producer, built one of the first ISPs in my county and was never on the payroll of the big dot com names — I was the one they trusted to deliver: From Sales/Systems engineer to Director — the climb took a toll. No degree. No paper — just the work, and the work carried me.
