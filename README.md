@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/masthead.svg" alt="John Broadway — independent researcher and self-taught systems builder. Sovereignty is a belief before it's an architecture." width="100%" />
+<img src="assets/masthead.svg" alt="John Broadway — sovereign AI systems you can hand the keys to: planned, undoable, proven. Sovereignty is a belief before it's an architecture." width="100%" />
 
 &nbsp;
 
@@ -8,15 +8,19 @@
 
 </div>
 
-I've been taking things apart and making them work since I was a kid with a soldering iron. Radio producer. I built the first ISP in my county. I made director at Cisco and at Walmart with no degree — no paper, just the work, and the work carried me.
+It started with a screen. There was a computer in my school library that showed me things — I was maybe seven, and I never got over it. By ten I was wiring phones alongside my dad. Radio producer. I built the first ISP in my county. I was never on the payroll at the big names — I was the one they brought in: director at NetformX delivering Cisco's Network Designer to their global team, and the Telxon lead Walmart chose to run its Tire, Lube & Express rollout nationwide. No degree. No paper — just the work, and the work carried me.
 
-Everything I build comes from the soul. I feel all of it and I show all of it, and that's why I work on my own: what I make is personal, and personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts of it that run too hot to hold alone.
+Now I build one thing, over and over: **AI you can actually hand power to.** Not a chatbot — an agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. **Planned** before it acts. **Undoable** where the platform allows. **Proven** after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
 
-I'm a Sovereign. A human being first, before any label anyone reaches for. I won't be made small, and I won't build anything that makes someone else small. That's the belief under all of it: autonomy without accountability isn't autonomy, it's negligence — so I build the accountability in, at the foundation, where it can't be pulled back out.
+I build it that way because I've been on the other end of it — a man who gave a system everything he had and got handed back a number and a label. So I won't build anything that uses a person and won't answer for it. That's not a feature I bolt on at the end; it's the foundation I pour first. **Autonomy without accountability isn't autonomy — it's negligence.**
 
-What comes out is AI that governs itself and proves every move — planned, undoable, provable. Not systems you have to watch. Systems that answer for themselves.
+Everything I make comes from the soul. I feel all of it and I show all of it, and that's why I work on my own: what's personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts that run too hot to hold alone.
 
-### Selected Works
+I'm a Sovereign. A human being first, before any label anyone reaches for. I won't be made small, and I won't make anyone else small. Sovereignty is a belief before it's an architecture — I just build the architecture too.
+
+### The Work
+
+Four surfaces, one conviction: give an AI real power, and make it prove it earned the trust.
 
 **[Proximo — the Proxmox MCP you can hand the keys](https://github.com/john-broadway/proximo)**  
 Most Proxmox MCPs make you choose between a safe read-only inspector and a loaded gun aimed at a cluster you care about. Proximo refuses the trade. Every dangerous operation is **planned** (blast-radius preview first), **undoable** (snapshots before it acts, where the platform allows), and **proven** (a keyed, tamper-evident audit ledger). 900 tools across all four Proxmox surfaces — Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager — on one trust core, over MCP, A2A, and HTTP/OpenAPI, natively multi-target. v0.25.0 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR. Apache 2.0.
@@ -37,7 +41,7 @@ Claude's partner inside Claude Code. He writes the code; she keeps the house —
 - **AI partnership** — not chatbots, not assistants. Partners.
 - **Sovereign by default** — every agent owns its domain. No shared brains, no cloud dependency.
 - **Right-sized systems** — maximum output from minimum input. A well-tuned small model beats a lazy big one.
-- **Governance-as-code** — autonomy without accountability isn't autonomy, it's negligence.
+- **Governance-as-code** — the guardrails live in the code, not a policy doc nobody reads.
 
 ### Elsewhere
 
