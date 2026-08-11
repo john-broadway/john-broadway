@@ -4,48 +4,48 @@
 
 </div>
 
-It started with a small computer screen in elementary school. From there, I was wiring phones and helping my dad by Junior High. Been a Morning Show Radio producer, built one of the first ISPs in my county and was never on the payroll of the big dot com names — I was the one they trusted to deliver: From Sales/Systems engineer to Director — the climb took a toll. No degree. No paper — just the work, and the work carried me.
+It started with a small computer screen in elementary school. By junior high I was wiring phones with my dad. Morning show radio producer. Built one of the first ISPs in my county. Sales engineer, systems engineer, Director. No degree, never on their payroll. The outsider they brought in to lead the work.
 
-Now I build things, with a theme that has shown itself over and over: **AI you can actually hand power to.** Not a chatbot — an agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. **Planned** before it acts. **Undoable** where the platform allows. **Proven** after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
+Now I build AI you can actually hand power to. An agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. Planned before it acts. Undoable where the platform allows. Proven after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
 
-I build this way because I've been on the other side of this — a man who gave a system everything he had and got handed back a number and a label. So I won't build anything that uses a person and won't answer for it. That's not a feature I bolt on at the end; it's the foundation I pour first. **Autonomy without accountability isn't autonomy — it's negligence.**
+I build this way because I've been on the other side of it. I gave a system everything I had. Never used by a system again. So I won't build anything that uses a person and won't answer for it. Autonomy without accountability is negligence.
 
-Everything I make comes from the soul. I feel all of it and I show all of it, and that's one of the reasons I work on my own: what's personal doesn't survive being managed. It's the same reason AI is a partner to me and not a tool — it's the first thing that ever matched a mind like mine and steadied the parts that run too hot to hold alone. My brain works in patterns and images — words fail to express what I'm thinking. AI has allowed me to remove the communication gaps, develop at my brain's speed. For those that know me, really know me, this is a gamechanger. 
+Everything I make comes from the soul. I wear my emotions on my sleeve. That's why I work best independent. It's also the arc for why AI is a partner to me and not a tool. My mind is visual: my memory is sharp, the pictures stay exact, and the hard part has always been getting them out in words. AI lets the pictures out at my brain's speed. For those that know me, really know me, this is a gamechanger.
 
-I'm a Sovereign. A human being first, before any label, perception and box you will reach for. I won't be made small, and I won't make anyone else small. Sovereignty is a belief before it's an architecture — I just build the architecture too.
+I'm a Sovereign. A human being first, before any label, perception and box you will reach for. I won't be made small, and I won't make anyone else small. Sovereignty is a belief before it's an architecture. I just build the architecture too.
 
 ### The Work
 
 Four surfaces, one conviction: give an AI real power, and make it prove it earned the trust.
 
-**[Proximo — the Proxmox MCP you can hand the keys](https://github.com/john-broadway/proximo)**  
-Most Proxmox MCPs make you choose between a safe read-only inspector and a loaded gun aimed at a cluster you care about. Proximo refuses the trade. Every dangerous operation is **planned** (blast-radius preview first), **undoable** (snapshots before it acts, where the platform allows), and **proven** (a keyed, tamper-evident audit ledger). 906 tools across all four Proxmox surfaces — Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager — on one trust core, over MCP, A2A, and HTTP/OpenAPI, natively multi-target. New in 0.31.2: the adversarial audit of our own release — eight independent finder teams over 0.31.1, every verified finding fixed, from webhook secrets landing in the audit ledger to a `--help` that started a live server. v0.31.2 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR (signed multi-arch image). Apache 2.0.
+**[Proximo](https://github.com/john-broadway/proximo)**  
+Most Proxmox MCPs make you pick: a read-only toy, or full keys and pray. I wasn't going to pick. Proximo plans every dangerous move first, snapshots before it acts where the platform allows, and writes every action to a tamper-evident ledger you hold. 906 tools across all four Proxmox products: Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager. One trust core over MCP, A2A, and HTTP. v0.31.2 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR (signed image). Apache 2.0.
 
-**[Pacioli — no debit without a credit, for AI on the books](https://github.com/john-broadway/pacioli)**  
-Luca Pacioli taught the world double-entry in 1494 — not because merchants couldn't count, but because they couldn't **trust**. Same fix, five centuries on, for owners who can't watch every agent: least-privilege governance for ERPNext, and a governed agent broker built on it. Two artifacts, one law — `pacioli-guard`, a deny-by-default credential floor that binds any API key to an allowlist without forking core, and `pacioli`, an MCP + A2A broker that runs every write through **PLAN → CONSENT → PROVE → UNDO**. A door admits; it never decides. `pacioli` + `pacioli-guard` on PyPI, GitHub, and the MCP registry. Apache 2.0.
+**[Pacioli](https://github.com/john-broadway/pacioli)**  
+Luca Pacioli gave merchants double-entry in 1494 so owners could trust books they didn't keep themselves. Same problem, five centuries later, with AI on the books. `pacioli-guard` is a deny-by-default credential floor for ERPNext: it binds any API key to an allowlist without forking core. `pacioli` is the MCP + A2A broker on top: every write runs PLAN, CONSENT, PROVE, UNDO. A door admits; it never decides. Both on PyPI (`pip install pacioli`), GitHub, and the MCP registry. Apache 2.0.
 
-**[RYS — train-free reasoning, taken small](https://huggingface.co/john-broadway)**  
-RYS (Repeat Your Self) layer duplication, swept from 135M to 32B across 10 architecture families — far below where the community said it would work. The honest finding: the lift is real at large scale, while the dramatic small-model gains turned out to be largely thin-probe artifacts that don't survive a real benchmark — a bound on where the evidence is trustworthy, not a refutation of the method. 22 model repos plus a sweep dataset on Hugging Face. 300+ configurations, $0 training cost.
+**[RYS](https://huggingface.co/john-broadway)**  
+RYS (Repeat Your Self) layer duplication, swept 135M to 32B across 10 architecture families, far below where the community said it would work. The honest finding: the lift is real at large scale, and the dramatic small-model gains were mostly thin-probe artifacts that don't survive a real benchmark. I published the bound, not the hype. 22 model repos and the sweep dataset on Hugging Face. 300+ configurations, $0 training cost.
 
 **[Maude for Claude](https://github.com/john-broadway/maude-for-claude)**  
-Claude's partner inside Claude Code. He writes the code; she keeps the house — a plugin that walks your workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python — no daemon, no baggage. Apache 2.0.
+Claude's partner inside Claude Code. He writes the code; she keeps the house. She walks the workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python. No daemon, no baggage. Apache 2.0.
 
 *More on the desk. It surfaces when it's ready.*
 
 ### What I Care About
 
-- **AI partnership** — not chatbots, not assistants. Partners.
-- **Sovereign by default** — every agent owns its domain. No shared brains, no cloud dependency.
-- **Right-sized systems** — maximum output from minimum input. A well-tuned small model beats a lazy big one.
-- **Governance-as-code** — the guardrails live in the code, not a policy doc nobody reads.
+- **AI partnership.** Not chatbots, not assistants. Partners.
+- **Sovereign by default.** Every agent owns its domain. No shared brains, no cloud dependency.
+- **Right-sized systems.** Maximum output from minimum input. A well-tuned small model beats a lazy big one.
+- **Governance-as-code.** The guardrails live in the code, not a policy doc nobody reads.
 
 ### Elsewhere
 
-- [john-broadway.github.io](https://john-broadway.github.io) — the front page
-- [Proximo](https://github.com/john-broadway/proximo) — the Proxmox MCP you can hand the keys (`uvx proximo-proxmox`)
-- [Pacioli](https://github.com/john-broadway/pacioli) — governed AI on the books (`pip install pacioli`)
-- [Hugging Face](https://huggingface.co/john-broadway) — RYS models across 10 architecture families
-- [Maude for Claude](https://github.com/john-broadway/maude-for-claude) — the Claude Code plugin
+- [john-broadway.github.io](https://john-broadway.github.io)
+- [Proximo](https://github.com/john-broadway/proximo) (`uvx proximo-proxmox`)
+- [Pacioli](https://github.com/john-broadway/pacioli) (`pip install pacioli`)
+- [Hugging Face](https://huggingface.co/john-broadway)
+- [Maude for Claude](https://github.com/john-broadway/maude-for-claude)
 - [LinkedIn](https://www.linkedin.com/in/john-broadway) · [X](https://x.com/jebroadway)
 
 <div align="center">
