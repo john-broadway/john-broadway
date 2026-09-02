@@ -28,7 +28,7 @@ Luca Pacioli gave merchants double-entry in 1494 so owners could trust books the
 RYS (Repeat Your Self) layer duplication, swept 135M to 32B across 10 architecture families, far below where the community said it would work. The honest finding: the lift is real at large scale, and the dramatic small-model gains were mostly thin-probe artifacts that don't survive a real benchmark. I published the bound, not the hype. 22 model repos and the sweep dataset on Hugging Face. 300+ configurations, $0 training cost.
 
 **[Maude for Claude](https://github.com/john-broadway/maude-for-claude)**  
-Claude's partner inside Claude Code. He writes the code; she keeps the house. She walks the workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python. No daemon, no baggage. v0.30.0 shipped 2026-08-22 (the vault learns to look — memory claims about live state carry their own read-only re-check, and `/maude:freshen` runs them). Apache 2.0.
+Claude's partner inside Claude Code. He writes the code; she keeps the house. She walks the workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python. No daemon, no baggage. v0.30.1 shipped 2026-09-02 (the gate token was landing in the wrong closet: the clear script and the gate were reading two different files, because the resolver keyed on a process name Claude Code stopped using; a name is not an identity, so it asks for the process id now, and both sides name their file). Apache 2.0.
 
 *More on the desk. It surfaces when it's ready.*
 
