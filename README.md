@@ -4,7 +4,7 @@
 
 </div>
 
-It started with a small computer screen in elementary school. By junior high I was wiring phones with my dad. Morning show radio producer. Built one of the first ISPs in my county. Sales engineer, systems engineer, Director. No degree, never on their payroll. The outsider they brought in to lead the work.
+It started with a small computer screen in elementary school. By junior high I was wiring phones with my dad. Morning show radio producer. Built one of the first ISPs in my county. No degree. The outsider they brought in to lead the work.
 
 Now I build AI you can actually hand power to. An agent that can touch your infrastructure, your books, your whole business, and proves every move it makes. Planned before it acts. Undoable where the platform allows. Proven after, on a ledger you hold. Systems that answer for themselves, so you don't have to stand over them.
 
