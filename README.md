@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/masthead.svg" alt="John Broadway — Sovereign AI, governed autonomy. Sovereignty is a belief before it's an architecture." width="100%" />
+<img src="assets/sovereign-robot.jpg" alt="John Broadway. Governed Autonomy // Sovereign AI." width="100%" />
 
 </div>
 
