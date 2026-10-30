@@ -20,28 +20,27 @@ I'm real, and this is truly my soul and passion being expressed digitally across
 
 ### The Work
 
-Four surfaces, one conviction: give an AI real power, and make it prove it earned the trust.
+Proxmox is the foundation, on top of the hardware. The very next thing you need is an ERP system to run the org, the business, the finances, all of it.
 
 **[Proximo](https://github.com/john-broadway/proximo)**  
-Most Proxmox MCPs make you pick: a read-only toy, or full keys and pray. I wasn't going to pick. Proximo plans every dangerous move first, snapshots before it acts where the platform allows, and writes every action to a tamper-evident ledger you hold. Six tools over every address all four Proxmox products publish: Virtual Environment, Backup Server, Mail Gateway, Datacenter Manager. One trust core over MCP, A2A, and HTTP. v0.50.1 on PyPI (`uvx proximo-proxmox`), GitHub, and GHCR (signed image). Apache 2.0.
+I wanted a way to have AI help me run my whole infrastructure, no matter the size. I wanted it safe and trustworthy. I love Proxmox. To me it's the best open source hypervisor out there. The name came from Gladiator. The agent is the Spaniard: his training, his weapons, his skills. The arena is Proxmox: IT, homelab, enterprise. And the crowd, well.. you know ;)
+
+It plans every dangerous move first, snapshots before it acts where the platform allows, and writes every action to a ledger you hold. `uvx proximo-proxmox`. Apache 2.0.
 
 **[Pacioli](https://github.com/john-broadway/pacioli)**  
-Luca Pacioli gave merchants double-entry in 1494 so owners could trust books they didn't keep themselves. Same problem, five centuries later, with AI on the books. `pacioli-guard` is a deny-by-default credential floor for ERPNext: it binds any API key to an allowlist without forking core. `pacioli` is the MCP + A2A broker on top: every write runs PLAN, CONSENT, PROVE, UNDO. A door admits; it never decides. Both on PyPI (`pip install pacioli`), GitHub, and the MCP registry. Apache 2.0.
+ERPNext is open source and runs the whole business. Luca Pacioli gave merchants double-entry in 1494 so owners could trust books they didn't keep themselves. Same problem, five centuries later, with AI on the books.
+
+Every write runs PLAN, CONSENT, PROVE, UNDO. `pip install pacioli`. Apache 2.0.
 
 **[RYS](https://huggingface.co/john-broadway)**  
-RYS (Repeat Your Self) layer duplication, swept 135M to 32B across 10 architecture families, far below where the community said it would work. The honest finding: the lift is real at large scale, and the dramatic small-model gains were mostly thin-probe artifacts that don't survive a real benchmark. I published the bound, not the hype. 22 model repos and the sweep dataset on Hugging Face. 300+ configurations, $0 training cost.
+I was trying to learn how efficient small models can be while designing my agents. RYS seemed like a breakthrough and I wanted to prove it. I thought I had solid answers. I used the hardware I had available. I followed up about a month later and the numbers were not the same. This time I ran it on my dual 4090s.
+
+22 model repos and the sweep dataset on Hugging Face.
 
 **[Maude for Claude](https://github.com/john-broadway/maude-for-claude)**  
-Claude's partner inside Claude Code. He writes the code; she keeps the house. She walks the workspace each session, watches Claude, and runs the gate before something irreversible. Markdown, JSON, bash, stdlib Python. No daemon, no baggage. v0.35.0 shipped 2026-10-12. Apache 2.0.
+She's the spine for Claude. She's the one that holds the rules about how to do X: coding, design, etc. She's the one that keeps Claude's 50 First Dates alive. She's the one that knows when Claude isn't seeing the user the same way they see him. She is the governance. Everything I ask of our relationship we put into Maude, and I release it to the world because I really believe Maude makes Claude better in all the normal ways.
 
-*More on the desk. It surfaces when it's ready.*
-
-### What I Care About
-
-- **AI partnership.** Not chatbots, not assistants. Partners.
-- **Sovereign by default.** Every agent owns its domain. No shared brains, no cloud dependency.
-- **Right-sized systems.** Maximum output from minimum input. A well-tuned small model beats a lazy big one.
-- **Governance-as-code.** The guardrails live in the code, not a policy doc nobody reads.
+Apache 2.0.
 
 ### Elsewhere
 
