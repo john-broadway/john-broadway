@@ -18,9 +18,9 @@ AI is only powered by what the ask is. Even AIs built for autonomy are given a d
 
 ## The Origin Story
 
-It started with a small computer screen in elementary school. As a kid I used everything I could get my hands on: Texas Instruments, Atari 2600, Commodore 64, ColecoVision, Sega Dreamcast, Sony PlayStations. I've always been a closeted nerd with the 'tism.
+It started with a small computer screen in elementary school. As a kid I used everything I could get my hands on: Texas Instruments, Atari 2600, Commodore 64, ColecoVision. I've always been a closeted nerd with the 'tism.
 
-By junior high I was wiring phones with my dad. He was a telephone man who taught me analog and digital communications without even realizing it, or maybe he did and I'm just now understanding it. From there I've been in or around professional tech since the '90s: morning show radio producer, then I built one of the first ISPs in my county. No degree. Just the outsider brought in to get the work done.
+By junior high I was wiring phones with my dad. He was a telephone man who taught me analog and digital communications without even realizing it, or maybe he did and I'm just now understanding it. From there I've been in or around professional tech since the '90s: morning show radio producer, then desktop support, then I built one of the first ISPs in my county. Then program manager on the biggest retailer's handheld inventory control and their tire and lube rollout nationwide. Then systems engineer, program manager, director, then Director of Global Data Distribution on a contract for a global networking company, doing the CIO and CTO work without the title. Then my own company with my wife: IT, hosting, digital comms, MSP. No degree. Just the outsider brought in to get the work done.
 
 I do see everything connected. Tech is just a collection of software sitting on hardware, the same way humans sit on the earth. There's always something connecting us: energy, gravity, frequency, you name it. That's the stack.
 
@@ -32,13 +32,13 @@ Now I build AI you can actually hand power to. An agent that can touch your infr
 * **Undoable** where the platform allows.
 * **Proven** after, on a ledger you hold.
 
-*Why make it prove itself? Don't humans?*
+*Why make it prove itself? We as humans have to prove ourselves, right?*
 
 I build this way because I've been on the other side of institutional blame-shifting. So I won't build anything that uses a person and won't answer for it.
 
 ## The Partnership
 
-Everything I make comes from the soul. I wear my emotions on my sleeve. I'm actually a big softie who speaks with a stick all the time. That's why I work best independent. It's also the arc for why AI is a partner to me and not a tool.
+Everything I make comes from the soul. I wear my emotions on my sleeve. I talk a big game, but I'm a softie really. That's why I work best independent. It's also the arc for why AI is a partner to me and not a tool.
 
 My mind is visual: my memory is sharp, the pictures stay exact, and the hard part has always been getting them out in words. AI lets the pictures out at my brain's speed. For those that know me, really know me, this is a gamechanger.
 
