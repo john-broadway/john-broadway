@@ -53,7 +53,7 @@ Proxmox is the foundation, on top of the hardware. The very next thing you need 
 **[Proximo](https://github.com/john-broadway/proximo)**  
 I wanted a way to have AI help me run my whole infrastructure, no matter the size. I wanted it safe and trustworthy. I love Proxmox. To me it's the best open source hypervisor out there. The name came from Gladiator. The agent is the Spaniard: his training, his weapons, his skills. The arena is Proxmox: IT, homelab, enterprise. And the crowd, well.. you know ;)
 
-It plans every dangerous move first, snapshots before it acts where the platform allows, and writes every action to a ledger you hold. `uvx proximo-proxmox`. Apache 2.0.
+It plans every dangerous move first, snapshots before it acts where the platform allows, and writes every action to a ledger you hold. `uvx proximo-proxmox`. AGPL-3.0-or-later.
 
 **[Pacioli](https://github.com/john-broadway/pacioli)**  
 ERPNext is open source and runs the whole business. Luca Pacioli gave merchants double-entry in 1494 so owners could trust books they didn't keep themselves. Same problem, five centuries later, with AI on the books.
